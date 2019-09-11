@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <head>
+    <type>script</type>
+    <background>街市-傍晚</background>
+    <next>option1</next>
+  </head>
+  <body>
+    <script>
+      <chara>姚玉丹</chara>
+      <emo>debug</emo>
+      <dlg>君华，你看新闻里的这个孩子，别看她年纪不大，舞台经验却很老道了，嗯，条件也不差。</dlg>
+    </script>
+    <script>
+      <chara>姚玉丹</chara>
+      <emo>debug</emo>
+      <dlg>在草台班子里，一年得唱三五百场戏，这样的演出强度在专业剧团是想都不敢想的。</dlg>
+    </script>
+    <script>
+      <chara>何君华</chara>
+      <emo>debug</emo>
+      <dlg>都是这么过来的。</dlg>
+    </script>
+    <script>
+      <chara>姚玉丹</chara>
+      <emo>debug</emo>
+      <dlg>话说回来，老谢（谢意，书法家，何君华丈夫）怎么没来，以前跟着剧团满世界跑，如今连家门口的戏都不来捧场了？</dlg>
+    </script>
+  </body>
+</root>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <head>
+    <type>option</type>
+  </head>
+  <body>
+    <option>
+      <script>To->cut2</script>
+      <next>cut2</next>
+    </option>
+    <option>
+      <script>To->cut3</script>
+      <next>cut3</next>
+    </option>
+    <option>
+      <script>To->cut4</script>
+      <next>cut4</next>
+    </option>
+  </body>
+</root>
