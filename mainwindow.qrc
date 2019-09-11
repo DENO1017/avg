@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LoadProgressStyle.qml</file>
+        <file>ContractModel.qml</file>
+        <file>TagModel.qml</file>
+        <file>icon/left-32.png</file>
+        <file>main.cpp</file>
+        <file>utils.cpp</file>
+        <file>utils.h</file>
+        <file>icon/open-32.png</file>
+        <file>Tools.js</file>
+        <file>ScriptInterpreter.py</file>
+        <file>icon/link.png</file>
+        <file>www/css/index.css</file>
+        <file>www/images/cordova.png</file>
+        <file>www/images/何君华.png</file>
+        <file>www/images/姚玉丹.png</file>
+        <file>www/images/街市-傍晚.png</file>
+        <file>www/images/街市-夜晚.png</file>
+        <file>www/scripts/index.js</file>
+        <file>www/scripts/JavaScript.js</file>
+        <file>www/scripts/jquery-3.3.1.min.js</file>
+        <file>www/scripts/platformOverrides.js</file>
+        <file>www/xml/cut1.xml</file>
+        <file>www/xml/cut2.xml</file>
+        <file>www/xml/cut3.xml</file>
+        <file>www/xml/cut4.xml</file>
+        <file>www/xml/option1.xml</file>
+        <file>www/index.html</file>
+        <file>tinystr.cpp</file>
+        <file>tinystr.h</file>
+        <file>tinyxml.cpp</file>
+        <file>tinyxml.h</file>
+        <file>tinyxmlerror.cpp</file>
+        <file>tinyxmlparser.cpp</file>
+        <file>icon/reload.png</file>
+    </qresource>
+</RCC>
